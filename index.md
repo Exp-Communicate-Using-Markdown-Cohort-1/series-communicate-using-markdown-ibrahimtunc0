@@ -10,3 +10,6 @@ function test() {
 }
 ```
 
+- [x] This is a list
+- [x] Item1 done
+- [ ] Item2 not done
